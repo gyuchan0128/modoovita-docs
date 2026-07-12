@@ -1,0 +1,6 @@
+node_modules/
+._*
+.DS_Store
+
+# Claude Code 로컬 설정(배포 불필요)
+.claude/
