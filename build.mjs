@@ -19,7 +19,7 @@ const OUT = R("docs");
 
 marked.setOptions({ gfm: true, breaks: false });
 
-const SITE_NAME = "모두의영양제";
+const SITE_NAME = "영양제먹자";
 const LEGAL_META = "시행일 2026년 7월 7일 · 버전 1.0";
 
 // --- 헬퍼 -------------------------------------------------------------------
